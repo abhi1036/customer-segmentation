@@ -799,6 +799,10 @@ Interactive API documentation:
 
 `http://127.0.0.1:8000/docs`
 
+Deployed Swagger documentation:
+
+https://customer-segmentation-k0gg.onrender.com/docs
+
 ## 18. Running the Streamlit Dashboard
 
 Open another terminal with the virtual environment activated:
@@ -812,6 +816,10 @@ streamlit run frontend/streamlit_app.py
 Streamlit will provide a local URL, normally:
 
 `http://localhost:8501`
+
+Live dashboard:
+
+https://customer-segmentation-abhi1036.streamlit.app/
 
 Both FastAPI and Streamlit should be running for live customer segmentation.
 

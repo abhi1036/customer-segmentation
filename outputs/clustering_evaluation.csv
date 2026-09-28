@@ -1,0 +1,4 @@
+algorithm,silhouette_score,davies_bouldin_index,calinski_harabasz_score,number_of_clusters,noise_points
+K-Means,0.28171039375311696,1.3205613218544856,3292.450185329405,3,0
+Agglomerative,0.28093586511645297,1.3233137180523495,3266.144245447506,3,0
+DBSCAN,,,,1,3
